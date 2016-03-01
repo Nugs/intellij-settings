@@ -47,4 +47,36 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="true" url="https://github.tools.tax.service.gov.uk">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>dfcedf93df9ddfcedf9cdfcbdfc9df92df99df93df9fdf92df92df93dfcfdf99df92df9edf99dfc8df9bdf9edf98dfc9df9edfcfdf99df9edf9cdf9cdfcedfc9df9ddf98df98df9cdfc8df9bdfcfdfcf</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="HMRC" />
+      <option name="repoName" value="attachment-example-frontend" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <JIRA shared="false" url="https://jira.tools.tax.service.gov.uk">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df9adf9adf9ddf8ddfd9dffadfc3dfc4dfc1dfe8dfcbdfc6dfc6dfd9</password>
+      <option name="jiraVersion" value="6.4.12" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>andrew.walters</username>
+    </JIRA>
+  </component>
 </application>
