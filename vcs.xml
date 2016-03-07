@@ -1,0 +1,13 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@github.tools.tax.service.gov.uk:HMRC/attachments-performance-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Applications/hmrc-development-environment/hmrc" />
+  </component>
+</application>
