@@ -472,6 +472,29 @@
         <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.1/references" />
       </SOURCES>
     </library>
+    <library name="json (v2.0.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/data" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/java" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/tests" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/tools" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/diagrams" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/references" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/data" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/java" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/tests" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/tools" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/diagrams" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.0.2/references" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v2.4.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/mime-types-2.4.3/lib" />
