@@ -656,9 +656,7 @@
       <SOURCES />
     </library>
     <library name="hashie (v1.2.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file:///var/lib/gems/2.3.0/gems/hashie-1.2.0/lib" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/hashie-1.2.0/lib" />
