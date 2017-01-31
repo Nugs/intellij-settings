@@ -4,6 +4,7 @@
       <mapping pattern="invalidId" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="cy" type="Properties" />
     </extensionMap>
   </component>
 </application>
