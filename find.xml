@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'business-rates-authorisation'" />
-    <option name="defaultScopeName" value="Module 'business-rates-authorisation'" />
+    <option name="customScope" value="Module 'business-rates-data-platform-stub'" />
+    <option name="defaultScopeName" value="Module 'business-rates-data-platform-stub'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'business-rates-authorisation'" />
+    <option name="SEARCH_SCOPE" value="Module 'business-rates-data-platform-stub'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
