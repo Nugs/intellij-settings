@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="bash-template" type="Bash" />
       <mapping ext="base" type="Dockerfile" />
       <mapping pattern="invalidId" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
