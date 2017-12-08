@@ -7,11 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.scala.html</mask>
-      <mask>*.yaml</mask>
       <mask>*.c</mask>
       <mask>*.con</mask>
       <mask>*.conf</mask>
@@ -29,15 +26,19 @@
       <mask>*.scala</mask>
       <mask>*.gro</mask>
       <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.go</mask>
+      <mask>*.goo</mask>
+      <mask>*.goov</mask>
+      <mask>*.goovy</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
