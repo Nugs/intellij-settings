@@ -2,23 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.c</mask>
-      <mask>*.con</mask>
-      <mask>*.conf</mask>
-      <mask>*S</mask>
-      <mask>*Sp</mask>
-      <mask>*Spe</mask>
-      <mask>*Spec</mask>
-      <mask>*Spec.</mask>
-      <mask>*Spec.s</mask>
-      <mask>*Spec.sc</mask>
-      <mask>*Spec.sca</mask>
-      <mask>*Spec.scal</mask>
       <mask>*Spec.scala</mask>
       <mask>**.scala</mask>
       <mask>*.scala</mask>
@@ -29,14 +14,26 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.go</mask>
       <mask>*.goo</mask>
       <mask>*.goov</mask>
       <mask>*.goovy</mask>
       <mask>*.groovy</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
+      <mask>E*.json</mask>
+      <mask>EX*.json</mask>
+      <mask>EXP*.json</mask>
+      <mask>EXPE*.json</mask>
+      <mask>EXPEC*.json</mask>
+      <mask>EXPECT*.json</mask>
+      <mask>EXPECTE*.json</mask>
+      <mask>EXPECTED*.json</mask>
+      <mask>EXPECTED-*.json</mask>
     </recentFileMasks>
   </component>
 </application>
